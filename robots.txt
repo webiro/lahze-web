@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://lahze-app.ir/sitemap.xml
+Sitemap: https://api.mini.lahze-app.ir/sitemap.xml
